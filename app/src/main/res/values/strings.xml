@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialogo</string>
+    <string name="btn_salir">SALIR</string>
+    <string name="txt_mensaje">PRESIONE EL BOTON PARA SALIR</string>
+</resources>
